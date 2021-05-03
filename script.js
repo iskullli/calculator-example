@@ -28,4 +28,4 @@ var calcularTabuada = function () {
 
 }
 
-document.querySelector('#valorA').addEventListener('change', calcularTabuada)
+document.querySelector('#valorA').addEventListener('change', calcularTabuada);
